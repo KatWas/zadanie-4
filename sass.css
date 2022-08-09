@@ -152,6 +152,12 @@ body{
 {
     background:#22424;
 }
+/* Media */
 
+@media (max-width: 767px) {
+    .section-inner {
+        flex-direction: column;
+    }
+}
     
     
